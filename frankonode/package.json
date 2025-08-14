@@ -11,6 +11,8 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "axios": "^0.21.0",
+    "immer": "^9.0.5",
     "lodash": "4.17.19"
   }
 }
