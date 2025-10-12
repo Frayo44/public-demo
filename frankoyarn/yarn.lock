@@ -1018,10 +1018,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"minimist@npm:0.0.8":
-  version: 0.0.8
-  resolution: "minimist@npm:0.0.8"
-  checksum: 10c0/d0a998c3042922dbcd5f23566b52811d6977649ad089fd75dd89e8a9bff27634194900818b2dfb1b873f204edb902d0c8cdea9cb8dca8488b301f69bd522d5dc
+"minimist@npm:0.2.4":
+  version: 0.2.4
+  resolution: "minimist@npm:0.2.4"
+  checksum: 10c0/6a8e8f4afa4a60d578b3eddabef1e3a40f3aa308290b17a55e060bbacfba7a575fd77f310969dd6b514c24251438a43039aafa0d6c9a3471ac2b5b45027d3369
   languageName: node
   linkType: hard
 
@@ -1709,7 +1709,7 @@ __metadata:
     axios: "npm:0.21.0"
     lodash: "npm:4.17.11"
     merge: "npm:1.2.1"
-    minimist: "npm:0.0.8"
+    minimist: "npm:0.2.4"
     qs: "npm:6.5.2"
     serialize-javascript: "npm:2.1.1"
     underscore: "npm:1.12.0"
