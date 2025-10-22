@@ -1526,10 +1526,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"underscore@npm:1.12.0":
-  version: 1.12.0
-  resolution: "underscore@npm:1.12.0"
-  checksum: 10c0/956e17e50c145504b2d59681358bcbfd4b80674c7334455dfefee313f9775e72b9504b603aa53e8199d88649377045e7a32a519ea0cebe0481d8950d6f04a0e5
+"underscore@npm:1.12.1":
+  version: 1.12.1
+  resolution: "underscore@npm:1.12.1"
+  checksum: 10c0/00f392357e363353ac485e7c156b749505087e31ff4fdad22e04ebd2f94a56fbc554cd41a6722e3895a818466cf298b1cae93ff6211d102d373a9b50db63bfd0
   languageName: node
   linkType: hard
 
@@ -1712,7 +1712,7 @@ __metadata:
     minimist: "npm:0.0.8"
     qs: "npm:6.5.2"
     serialize-javascript: "npm:2.1.1"
-    underscore: "npm:1.12.0"
+    underscore: "npm:1.12.1"
     wrangler: "npm:3.18.0"
   languageName: unknown
   linkType: soft
