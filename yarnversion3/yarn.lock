@@ -979,12 +979,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"marked@npm:1.2.2":
-  version: 1.2.2
-  resolution: "marked@npm:1.2.2"
+"marked@npm:2.0.0":
+  version: 2.0.0
+  resolution: "marked@npm:2.0.0"
   bin:
     marked: bin/marked
-  checksum: 84287b83373a1a991c96d1bd33e7eb1ec10af3e45f086655b33b5c003d2e782dae93ff249bfbccfa8c301e0176d4572008c1c8a0774c6616d57d1814c0072f3f
+  checksum: 80eadb93340cd043b69c1c7ce95836f0f2cb0355121dbd4b4189b6efb7559884e719eaf5cd9300ca51679f54a4f3d8388bc8e7ca0fd0da76619c4f238e72e1ea
   languageName: node
   linkType: hard
 
@@ -1697,7 +1697,7 @@ __metadata:
   dependencies:
     axios: 0.18.0
     lodash: 4.17.19
-    marked: 1.2.2
+    marked: 2.0.0
     minimist: 1.2.5
     wrangler: 3.18.0
   languageName: unknown
