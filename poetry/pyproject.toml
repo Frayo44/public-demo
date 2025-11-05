@@ -11,10 +11,10 @@ dependencies = [
     "requests (==2.32.3)",
     "pyyaml (==5.3)",
     "jinja2 (==2.10.1)",
-    "flask ==0.12",        # CVE-2018-1000656
-    "django ==2.2.2",      # CVE-2019-12781
-    "urllib3 ==1.24.1",    # CVE-2019-11324
-    "numpy ==1.16.0"       # CVE-2019-6446
+    "flask ==0.12",
+    "django ==2.2.2",
+    "urllib3 ==1.24.1",
+    "numpy ==1.16.0"
 ]
 
 
