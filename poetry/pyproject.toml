@@ -13,6 +13,7 @@ dependencies = [
     "jinja2 (==2.10.1)",
     "flask ==0.12",
     "django ==2.2.2",
+    "django2 ==2.2.2",
     "urllib3 ==1.24.1",
     "numpy ==1.16.0"
 ]
