@@ -929,10 +929,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lodash@npm:4.17.11":
-  version: 4.17.11
-  resolution: "lodash@npm:4.17.11"
-  checksum: 10c0/38d4510a3b9ebacd640480a2775ee4b9894ec82c20dd903930aa6613b8d888c245e996458d3cf917a8ef3928fb98c9159a4a003dba5d64a0185c96db1db74750
+"lodash@npm:4.17.21":
+  version: 4.17.21
+  resolution: "lodash@npm:4.17.21"
+  checksum: 10c0/d8cbea072bb08655bb4c989da418994b073a608dffa608b09ac04b43a791b12aeae7cd7ad919aa4c925f33b48490b5cfe6c1f71d827956071dae2e7bb3a6b74c
   languageName: node
   linkType: hard
 
@@ -1707,7 +1707,7 @@ __metadata:
   resolution: "yarntest@workspace:."
   dependencies:
     axios: "npm:0.21.0"
-    lodash: "npm:4.17.11"
+    lodash: "npm:4.17.21"
     merge: "npm:1.2.1"
     minimist: "npm:0.0.8"
     qs: "npm:6.5.2"
