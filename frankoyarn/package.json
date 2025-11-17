@@ -3,7 +3,7 @@
   "packageManager": "yarn@4.9.2",
   "dependencies": {
     "axios": "0.21.0",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "merge": "1.2.1",
     "minimist": "0.0.8",
     "qs": "6.5.2",
